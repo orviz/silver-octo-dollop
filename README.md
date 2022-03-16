@@ -1,1 +1,1 @@
-Welcome to my Git repository
+Example project from template
